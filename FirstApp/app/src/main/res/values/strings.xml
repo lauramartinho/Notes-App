@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">First App</string>
+    <string name="meus_vers_culos">Meus Versículos</string>
+    <string name="pesquisar_vers_culos">Pesquisar Versículos</string>
+    <string name="t_tulo">Título</string>
+    <string name="subt_tulo">Subtítulo</string>
+    <string name="escreva_aqui">Escreva aqui...</string>
+    <string name="miscellaneous">Miscellaneous</string>
+    <string name="mudar_cor">Mudar Cor</string>
+    <string name="op_es">Opções</string>
+    <string name="Anotações">anotacoes</string>
+    <string name="anotacoes">Anotações</string>
+    <string name="pesquisaranotacoes">Pesquisar Anotações</string>
+</resources>
